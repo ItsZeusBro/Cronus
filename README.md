@@ -1,7 +1,6 @@
 # Cronus
-## A General Purpose, Task Specific, Time Series Machine (Computable) that Self Optimizes its Hydra Abstractions (pipeline) to Model Performance
-#### It is also a Plugin for Hydra with an Abstract Syntax to go with it
+## A General Purpose, Task Oriented, Time Series Statistical Machine exposed to Hydra.
 
 ![Peter-Paul-Rubens-rendering-of-Cronus-devouring-his-son-Poseidon_Q320](https://user-images.githubusercontent.com/107733608/174720950-ebf47641-4aec-4531-ac18-6b0ff1b0db60.jpg)
 
-### In other words Cronus tailors a pipeline to a general time series task along with the model of your choice
+### By General Purpose we mean, any time series model can be constructed. By task specific we mean that the pipeline is tailored to the task, not just the model. The pipeline is therefore a part of the Hydra Machine Abstraction.
